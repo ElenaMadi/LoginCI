@@ -13,6 +13,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
 
+
+/*
+|--------------------------------------------------------------------------
+| Custom Constants
+|--------------------------------------------------------------------------
+|
+|
+*/
+define('SALT', 'justanotherSalt9997');
+
+
 /*
 |--------------------------------------------------------------------------
 | File and Directory Modes
